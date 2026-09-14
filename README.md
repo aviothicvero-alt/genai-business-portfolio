@@ -4,7 +4,7 @@
 [![Field](https://img.shields.io/badge/Focus-Aviation%20Management%20%26%20AI-orange.svg)](#)
 [![Status](https://img.shields.io/badge/Portfolio-In%20Progress-green.svg)](#)
 
-Welcome to my central portfolio repository! My name is **Varnika Gupta**, a second-year **BBA Aviation Management** student at **Chitkara University**. 
+Welcome to my central portfolio repository! My name is **Varnika Gupta**, a second-year **BBA Aviation Management** student at **Chitkara University**
 
 This repository systematically documents my technical, analytical, and operational competencies developed throughout the **Generative AI for Business** course. The goal of this portfolio is to demonstrate how modern AI capabilities can be responsibly integrated into corporate strategy, operational workflows, and the aviation sector.
 
